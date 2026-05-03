@@ -19,9 +19,3 @@ A detailed instruction about how to install `openmediavault` can be found in the
 - [Documentation](https://docs.openmediavault.org)
 - [Forum](https://forum.openmediavault.org)
 - [Blog](https://blog.openmediavault.org)
-
-## Donation
-
-`openmediavault` is free, but costs money and time to produce, support and distribute. This gift to the developer would demonstrate your appreciation of this software and help its future development.
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=95MF5UQ66PW2E&source=url)
